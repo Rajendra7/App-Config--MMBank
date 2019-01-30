@@ -2,6 +2,16 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\AppConfig-MMBank\Website"/>
+			<item value="C:\AppConfig-MMBank\Transaction-service"/>
+			<item value="C:\AppConfig-MMBank\Eureka-service-bankapp"/>
+			<item value="C:\AppConfig-MMBank\configuration-service-bankapp"/>
+			<item value="C:\AppConfig-MMBank\Account-Service"/>
+			<item value="C:\AppConfig-MMBank\website"/>
+			<item value="C:\AppConfig-MMBank\transactions-service"/>
+			<item value="C:\AppConfig-MMBank\eureka-server"/>
+			<item value="C:\AppConfig-MMBank\config-server"/>
+			<item value="C:\AppConfig-MMBank\accounts-service"/>
 			<item value="C:\AppConfig-MMBank\Website-service"/>
 			<item value="C:\AppConfig-MMBank\Eureka-service"/>
 			<item value="C:\AppConfig-MMBank\Eureka-client"/>
